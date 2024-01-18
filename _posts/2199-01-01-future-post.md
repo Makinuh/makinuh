@@ -1,6 +1,6 @@
 ---
 title: 'TIL'
-date: THURSDAY
+date: 2019-01-14
 permalink: /posts/2019/01/blog-post-1/
 tags:
   - TIL
