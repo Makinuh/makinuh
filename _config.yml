@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dave"
   avatar           : "profile.png"
-  bio              : "to think what you've never thought about"
+  bio              : "organic matter"
   location         : "EU"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "makinuh"
+  github           : "john+snow"
   google_plus      :
   keybase          :
   instagram        :
@@ -176,15 +176,18 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
+    output: false
+    permalink: /:collection/:path/
+  Talking about
     output: true
     permalink: /:collection/:path/
 
