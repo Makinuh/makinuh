@@ -85,10 +85,10 @@ author:
   bio              : "organic matter"
   location         : "EU"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "john+snow"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -187,7 +187,7 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
-  Talking about
+  talking about:
     output: true
     permalink: /:collection/:path/
 
