@@ -1,11 +1,17 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'TIL'
+date: THURSDAY
+permalink: /posts/2019/01/blog-post-1/
 tags:
-  - cool posts
+  - TIL
   - category1
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+#What method uses the fewest clicks to run-test an application from a cloud-repo-code interface?
+
+. clone repo to local environment
+. run with python command at terminal
+. savour the output
+
+bonus: check dependencies
