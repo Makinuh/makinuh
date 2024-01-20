@@ -257,9 +257,9 @@ defaults:
   # _talking-about
   - scope:
       path: ""
-      type: talks
+      type: talking-about
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: false
       comment: false
