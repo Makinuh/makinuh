@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "What we're talking"
+permalink: /talking-about/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.talking-about reversed %}
+  {% include archive-single.html %}
+{% endfor %}
