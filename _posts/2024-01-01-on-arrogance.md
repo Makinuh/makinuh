@@ -1,6 +1,6 @@
 ---
 title: 'On arrogance'
-date: 2019-01-15
+date: 2024-01-01
 permalink: /posts/2024/01/blog-post-3/
 tags:
 ---
