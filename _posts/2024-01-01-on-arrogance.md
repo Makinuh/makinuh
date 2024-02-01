@@ -1,7 +1,7 @@
 ---
 title: 'On arrogance'
-date: 2024-01-01
-permalink: /posts/2024/01/blog-post-3/
+date: 2020-02-01
+permalink: /posts/2020/02/blog-post-3/
 tags:
 ---
 
